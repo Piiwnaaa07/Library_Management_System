@@ -1,0 +1,58 @@
+[
+  {
+    "judul": "Laut Bercerita",
+    "stok": 9,
+    "kondisi": "Baik Sekali",
+    "peminjam": "Selma Cantik",
+    "pinjam": "14 Juli  2026",
+    "kembali": "21 Juli 2026"
+  },
+  {
+    "judul": "Negeri Para Bedebah",
+    "stok": 10,
+    "kondisi": "Baik Sekali",
+    "peminjam": "",
+    "pinjam": "",
+    "kembali": ""
+  },
+  {
+    "judul": "Negeri di Ujung Tanduk",
+    "stok": 10,
+    "kondisi": "Baik Sekali",
+    "peminjam": "",
+    "pinjam": "",
+    "kembali": ""
+  },
+  {
+    "judul": "Pulang",
+    "stok": 10,
+    "kondisi": "Baik Sekali",
+    "peminjam": "",
+    "pinjam": "",
+    "kembali": ""
+  },
+  {
+    "judul": "Pergi",
+    "stok": 10,
+    "kondisi": "Baik Sekali",
+    "peminjam": "",
+    "pinjam": "",
+    "kembali": ""
+  },
+  {
+    "judul": "Pulang Pergi",
+    "stok": 10,
+    "kondisi": "Baik Sekali",
+    "peminjam": "",
+    "pinjam": "",
+    "kembali": ""
+  },
+  {
+    "judul": "Teruslah Bodoh Jangan Pintar",
+    "stok": 10,
+    "kondisi": "Baik Sekali",
+    "peminjam": "",
+    "pinjam": "",
+    "kembali": ""
+  }
+]
