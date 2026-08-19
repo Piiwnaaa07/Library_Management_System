@@ -38,7 +38,9 @@ def borrow():
     s=tree.focus()
     if not s:return
     b=books[int(s)]
-    if b["stok"]<1: messagebox.showerror("Error","Stok habis");return
+    if b["stok"]<1: 
+       messagebox.showerror("Error","Stok habis");
+       return
     b["stok"]-=1;b["peminjam"]=e4.get();b["pinjam"]=e5.get();b["kembali"]=e6.get();save();refresh()
 def ret():
     s=tree.focus()
